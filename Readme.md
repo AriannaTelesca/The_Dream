@@ -1,4 +1,6 @@
-# THE DREAM PROJET  
+# THE DREAM PROJECT    
+
+This project is a challange of the BeCode promo Swartz/6. I completed it the 1 July 2022.
 
 ## The Mission
 
@@ -9,7 +11,7 @@
 ### Nice to haves
 
 - Allow the user to choose between different currencies
-- Provide a button to switch the from / to valuta types (So Euro -> Dollar becomes Dollar --> Euro)  
+- Provide a button to switch the from / to valuta types (So Euro -> Dollar becomes Dollar --> Euro)    
 
 
 ![The Dream](/IMAGES/the_dream.png)
